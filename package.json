@@ -1,6 +1,6 @@
 {
   "name": "@merci-michel/mm-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merci-Michel Render package",
   "main": "lib/index.js",
   "scripts": {
